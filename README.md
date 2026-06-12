@@ -54,7 +54,7 @@ SoloDev-Toolkit/
 
 Git이 설치되어 있다면 다음 명령어로 저장소를 복제합니다.
 
-git clone https://github.com/[GitHub-사용자명]/solo-dev-toolkit.git
+git clone https://github.com/qwwasdr0/SoloDevToolkit.git
 cd solo-dev-toolkit
 
 ### 방법 2. ZIP 파일 다운로드
