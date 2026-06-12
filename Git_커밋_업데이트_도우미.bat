@@ -1,5 +1,4 @@
-```bat
-@echo off
+﻿@echo off
 chcp 65001 >nul
 setlocal EnableExtensions DisableDelayedExpansion
 title Git 커밋 업데이트 도우미
@@ -402,4 +401,3 @@ echo.
 
 endlocal
 exit /b 0
-```
