@@ -8,8 +8,8 @@ import tkinter as tk
 from dataclasses import dataclass
 from io import BytesIO
 from tkinter import filedialog, messagebox, ttk
-
 import fitz
+
 from PIL import Image, ImageOps, ImageSequence, ImageTk
 from pypdf import PdfReader, PdfWriter
 
